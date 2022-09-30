@@ -5,3 +5,4 @@
 <!-- Delete options that are not relevant -->
 - [ ] Bug fix
 - [ ] New feature
+- [ ] Setup/DevOps/Refactor
